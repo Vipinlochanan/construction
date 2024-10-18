@@ -1,0 +1,66 @@
+@media(max-width:766px){
+    .header-section img,ul,li,a,button,h3{
+        margin-left: 10px;
+        font-size:20px ;
+        }
+
+}
+@media(max-width:1000){
+	.header-section ul,li,a,h3{
+        margin-left: 5px;
+        font-size:10px;}
+    .header-section img {
+    	width:50px;
+    	hight :50px;
+    }
+
+    .slide-section .carousel-caption h1 {
+        font-size: 20px;
+    } 
+    .ariaofexpertise-section img,button,p{
+        margin-left: 10px;
+        font-size:14px ;
+        align-content: center;
+	}
+    .about-section p,img,{
+		margin-left: 8px;
+		margin-right: 12px;
+		align-content: center;
+		font-size: 16;
+	}    
+}
+@media(max-width:765px){
+	.about-section p,img,{
+		margin-left: 10px;
+		margin-right: 12px;
+		align-content: center;
+		font-size: 16;
+	}
+
+}
+@media(max-width: 400px){
+	.footer p{
+		margin-left: 10px;
+		margin-right: 10px;
+	}
+	.header-section img,button,h3{
+        margin-left: 10px;
+        font-size:15px ;
+    }
+    .ariaofexpertise-section img,button,p{
+        margin-left: 5px;
+        font-size:12px ;
+	}
+	.ariaofexpertise-section img,{
+
+	margin-top: 50;	     
+    
+	}
+}
+.center{
+		text-align: center;
+		width: 100PX;
+		height: 100PX;
+		border: 2px solid black;
+			}
+	
