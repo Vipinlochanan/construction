@@ -7,12 +7,13 @@
 }
 @media(max-width:1000){
 	.header-section ul,li,a,h3{
-        margin-left: 5px;
-        font-size:10px;}
+        margin-left: 3px;
+        font-size:8px;}
     .header-section img {
     	width:50px;
     	hight :50px;
     }
+	h3{font-size: medium;}
 
     .slide-section .carousel-caption h1 {
         font-size: 20px;
